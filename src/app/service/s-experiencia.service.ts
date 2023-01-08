@@ -10,7 +10,7 @@ export class SExperienciaService {
   detail(id: any) {
     throw new Error('Method not implemented.');
   }
-  URL = 'https://faithful-renie-thebonii.koyeb.app/explab/'
+  URL = 'https://ooo-gta63948.koyeb.app/explab/'
 
 
   constructor(private httpClient: HttpClient) { }

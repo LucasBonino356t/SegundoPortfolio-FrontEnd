@@ -9,7 +9,7 @@ import { NuevoUsuario } from '../Model/nuevo-usuario';
   providedIn: 'root'
 })
 export class AuthService {
-authURL = 'https://faithful-renie-thebonii.koyeb.app/auth/';
+authURL = 'https://ooo-gta63948.koyeb.app/auth/';
 
   constructor(private httpClient:HttpClient) { }
 

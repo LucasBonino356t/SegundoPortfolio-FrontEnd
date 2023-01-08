@@ -7,7 +7,7 @@ import { Skill } from '../Model/skill';
   providedIn: 'root'
 })
 export class SkillService {
-  URL = 'https://faithful-renie-thebonii.koyeb.app/skill/';
+  URL = 'https://ooo-gta63948.koyeb.app/skill/';
 
   constructor(private httpClient: HttpClient) { }
 
